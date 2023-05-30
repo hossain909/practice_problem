@@ -1,4 +1,4 @@
-*.gitignore
+.gitignore
 *inputf.in
 *outputf.in
-*pallindrome
+pallindrome
